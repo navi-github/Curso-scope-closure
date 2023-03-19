@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Closures y Scope en JavaScript de PLATZI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navi-github/Curso-scope-closure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navi-github/Curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/navi-github/Curso-scope-closure#readme"
+}
